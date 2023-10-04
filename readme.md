@@ -11,7 +11,7 @@ const x = sevice.getStateList("DZ");
 console.log(x);
 ```
 
-> If want the entire data
+If want the entire data
 
 ```js
 const sevice = require("country-state-mapping");
